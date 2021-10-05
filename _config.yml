@@ -1,6 +1,6 @@
 # Site settings
 title: "Siegfried Sahuc"
-description: "Recherche d'un contrat d'apprentissage de 2 ans à l'ESGI pour un poste en Architecture des Logiciels"
+description: "Développeur"
 
 # Build settings
 markdown: kramdown
@@ -11,7 +11,7 @@ sass:
 # Resume settings
 resume_avatar:                  "true"
 resume_name:                    "Siegfried Sahuc"
-resume_title:                   "Recherche d'un apprentissage de 2 ans"
+resume_title:                   "Recherche poste développeur mi-temps"
 
 # used for the contact button in _layouts/resume.html
 resume_contact_email:           "siegfriedsahuc+job@gmail.com"
@@ -23,7 +23,7 @@ resume_contact_address:         "11 rue d'Annam, Paris"
 resume_header_contact_info:     "11 rue d'Annam, Paris • 06.61.74.73.47 • siegfriedsahuc@gmail.com"
 display_header_contact_info:    "true"
 
-resume_header_intro: "<p>Dans le cadre d'un Mastère Architecture des Logiciels à l'ESGI Paris, je recherhe un contrat d'apprentissage avec un rythme de 3 semaines en entreprise et 1 semaine en formation. Je suis disponible à partir d'Octobre 2021 </p>"
+resume_header_intro: "<p>Pour découvrir le monde du travail et connaître mes champs de préférences, je cherche un poste de développeur ou d'assistance à la gestion de projets logiciels à mi-temps. </p>"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
