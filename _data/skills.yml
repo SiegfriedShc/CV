@@ -1,7 +1,11 @@
 # Compétences
 # Gestion projets
 - skill: Gestion minimale de projets de développement
-  description: Tout le long de ma scolarité, j'ai été amené à gérer des petits projets en utilisant des outils de contrôle de version (git, svn), seul ou en petite équipe.
+  description: Tout le long de ma scolarité, j'ai été amené à gérer des petits projets en utilisant des outils de contrôle de version seul ou en petite équipe.
+
+# Languages
+- skill: Langages utilisés
+  description: C, Java, Javascript, Python, C#.
 
 # Systeme UNIX
 - skill: Connaissance du système UNIX
@@ -9,7 +13,7 @@
 
 # Protocole Reseaux
 - skill: Protocoles et Réseaux
-  description: La programmation réseau me plaît énormément, comme l'étude formelle des protocoles (réseaux, ou même USB).
+  description: La programmation réseau me plaît énormément, comme l'étude formelle des protocoles (réseaux, ou même USB par exemple).
 
 # Bilingue anglais
 - skill: Bilingue anglais

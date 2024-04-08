@@ -1,17 +1,29 @@
 # Jobs
+
+# Barman
+- company: Rosa Bonheur sur Seine
+  position: Barman
+  duration: Juin 2022 &mdash; Maintenant
+
+# Associatif
+#- company: Milieu associatif
+#  position: LÉØ, Pantin
+#  duration: Mars 2021 &mdash; Janvier 2023
+#  summary: Maraudes alimentaire et cyclologistique avec le Laboratoire Écologique 0 déchets.
+
 # Vacataire étudiant
 - company: Bibliothèque du cinéma François Truffaut
   position: Vacataire étudiant
-  duration: Septempbre, 2020 &mdash; Maintenant
+  duration: Septembre 2020 &mdash; Juin 2023
 
 # BNP
 - company: BNP Paribas
   position: Assistant de production en back-office
-  duration:  Septembre, 2018 &mdash; Janvier, 2020
+  duration:  Septembre 2018 &mdash; Janvier 2020
 
 
 # Interieur
 - company: Ministère de l'Intérieur
   position: Chargé de projet
-  duration:   Juillet  &mdash; Août, 2017
+  duration:   Juillet  &mdash; Août 2017
   summary: Mise en place d'un outil informatique pour le standard du Ministère de l'Intérieur.
