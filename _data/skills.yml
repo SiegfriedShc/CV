@@ -1,7 +1,7 @@
 # Compétences
 # Gestion projets
 - skill: Gestion minimale de projets de développement
-  description: Tout le long de ma scolarité, j'ai été amené à gérer des petits projets en utilisant des outils de contrôle de version seul ou en petite équipe.
+  description: Tout au long de ma scolarité, j'ai été amené à gérer des petits projets en utilisant des outils de contrôle de version seul ou en petite équipe.
 
 # Languages
 - skill: Langages utilisés
@@ -9,7 +9,7 @@
 
 # Systeme UNIX
 - skill: Connaissance du système UNIX
-  description: J'ai toujours beaucoup aimé enrichir mes connaissances sur le fonctionnement d'UNIX, mes cours préférés à l'université étaint les cours de système (C).
+  description: J'ai toujours beaucoup aimé enrichir mes connaissances sur le fonctionnement d'UNIX, mes cours préférés à l'université étaient les cours de système (C).
 
 # Protocole Reseaux
 - skill: Protocoles et Réseaux
