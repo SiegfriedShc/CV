@@ -6,11 +6,12 @@
   duration: Juin 2022 &mdash; Maintenant
 
 # Associatif
-- company: Milieu associatif
-  position: LÉØ, Pantin
+- company: LÉØ, Pantin
+  position: Bénévole
   duration: Mars 2021 &mdash; Janvier 2023
   summary: Maraudes alimentaire et cyclologistique avec le Laboratoire Écologique 0 déchets.
-  position: Cyclofficine, Pantin
+- company: Cyclofficine de Pantin
+  position: Développeur front
   duration: Octobre 2021 &mdash; Février 2022
   summary: Aide à l'actualisation du site de l'association.
 
